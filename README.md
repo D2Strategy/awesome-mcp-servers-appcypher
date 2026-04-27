@@ -266,6 +266,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
 
 <br />
+- [Zikra](https://github.com/GetZikra/zikra) - Shared persistent memory for Claude Code, Gemini CLI, and Codex. One PostgreSQL-backed pool for decisions, prompts, requirements, and session logs across sessions, tools, and machines. Hybrid vector + keyword search, auto-saves via Stop/PreCompact hooks, role-based access, MIT licensed. [zikra.dev](https://zikra.dev)
 
 ## ⚡ <a name="cloud-platforms"></a>Cloud Platforms
 
